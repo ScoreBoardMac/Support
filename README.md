@@ -1,0 +1,2 @@
+# Support
+ScoreBoard app support
